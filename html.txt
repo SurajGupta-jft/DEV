@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 
-answer 
-=======
+
+answer
 rahul
->>>>>>> html
+jk
