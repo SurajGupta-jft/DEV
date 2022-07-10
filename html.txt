@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 answer 
+=======
+rahul
+>>>>>>> html
